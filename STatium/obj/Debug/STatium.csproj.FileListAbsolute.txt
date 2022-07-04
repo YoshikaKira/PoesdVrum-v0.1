@@ -1,0 +1,15 @@
+C:\Users\STUDENT\source\repos\STatium\bin\Debug\STatium.exe.config
+C:\Users\STUDENT\source\repos\STatium\bin\Debug\STatium.exe
+C:\Users\STUDENT\source\repos\STatium\bin\Debug\STatium.pdb
+C:\Users\STUDENT\source\repos\STatium\obj\Debug\STatium.csproj.AssemblyReference.cache
+C:\Users\STUDENT\source\repos\STatium\obj\Debug\MainWindow.g.cs
+C:\Users\STUDENT\source\repos\STatium\obj\Debug\App.g.cs
+C:\Users\STUDENT\source\repos\STatium\obj\Debug\STatium_MarkupCompile.cache
+C:\Users\STUDENT\source\repos\STatium\obj\Debug\STatium_MarkupCompile.lref
+C:\Users\STUDENT\source\repos\STatium\obj\Debug\MainWindow.baml
+C:\Users\STUDENT\source\repos\STatium\obj\Debug\STatium.g.resources
+C:\Users\STUDENT\source\repos\STatium\obj\Debug\STatium.Properties.Resources.resources
+C:\Users\STUDENT\source\repos\STatium\obj\Debug\STatium.csproj.GenerateResource.cache
+C:\Users\STUDENT\source\repos\STatium\obj\Debug\STatium.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\STatium\obj\Debug\STatium.exe
+C:\Users\STUDENT\source\repos\STatium\obj\Debug\STatium.pdb
